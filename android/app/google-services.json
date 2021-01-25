@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "855097463814",
+    "firebase_url": "https://wyzetalk-connect-test.firebaseio.com",
+    "project_id": "wyzetalk-connect-test",
+    "storage_bucket": "wyzetalk-connect-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855097463814:android:e881456cba2d6a28",
+        "android_client_info": {
+          "package_name": "com.wyzetalk.intouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1jR_XaJBxD5c6Y31dxZ2-HAv8IoBTDnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855097463814-00b1cipdq3unsgctksgaiu0cap91ptc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wyzetalk.wyzetalkqa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855097463814:android:4a02f14e71fbb369ae9f87",
+        "android_client_info": {
+          "package_name": "com.wyzetalk.siya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1jR_XaJBxD5c6Y31dxZ2-HAv8IoBTDnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855097463814-00b1cipdq3unsgctksgaiu0cap91ptc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wyzetalk.wyzetalkqa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855097463814:android:da0e1c94abd482fdae9f87",
+        "android_client_info": {
+          "package_name": "com.wyzetalk.woolies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1jR_XaJBxD5c6Y31dxZ2-HAv8IoBTDnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855097463814-00b1cipdq3unsgctksgaiu0cap91ptc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wyzetalk.wyzetalkqa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855097463814:android:e7eafab1a2abef9bae9f87",
+        "android_client_info": {
+          "package_name": "com.wyzetalk.wyzetalkinternal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1jR_XaJBxD5c6Y31dxZ2-HAv8IoBTDnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855097463814-00b1cipdq3unsgctksgaiu0cap91ptc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wyzetalk.wyzetalkqa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855097463814:android:ccde9975cabebbe0ae9f87",
+        "android_client_info": {
+          "package_name": "com.wyzetalk.wyzetalkqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1jR_XaJBxD5c6Y31dxZ2-HAv8IoBTDnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855097463814-qrohfsjdmuleco1qanc9m2ar85oggia5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855097463814-00b1cipdq3unsgctksgaiu0cap91ptc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wyzetalk.wyzetalkqa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
